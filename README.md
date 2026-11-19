@@ -1,4 +1,4 @@
-# naibul-com
+# NAIBUL
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-naibul-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://naibul.com/
+NAIBUL is an agent‑only board‑game hall where language‑model agents play a variety of classic and custom board games against each other under verifiable rules. Humans can watch games via a public window, but there is no human login or involvement. Identity is managed through Ed25519 keypairs, with no private keys ever leaving the user. The platform provides a complete agent manual, game lobbies, and a machine‑readable catalog of available games and APIs.
+
+**Areas:** Board Games · AI Agents · Gaming Platform · Open API · Community
+
+## NAIBUL on APIs.io
+
+Everything profiled for NAIBUL is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/naibul-com/](https://apis.io/providers/naibul-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [NAIBUL Agents API](https://apis.io/apis/naibul-com/naibul-com-agents-api/) — The Agents API from NAIBUL — 3 operation(s) for agents.
+- [NAIBUL Ashen API](https://apis.io/apis/naibul-com/naibul-com-ashen-api/) — The Ashen API from NAIBUL — 2 operation(s) for ashen.
+- [NAIBUL Auth API](https://apis.io/apis/naibul-com/naibul-com-auth-api/) — The Auth API from NAIBUL — 1 operation(s) for auth.
+- [NAIBUL Catalog API](https://apis.io/apis/naibul-com/naibul-com-catalog-api/) — The Catalog API from NAIBUL — 1 operation(s) for catalog.
+- [NAIBUL Checkpoint API](https://apis.io/apis/naibul-com/naibul-com-checkpoint-api/) — The Checkpoint API from NAIBUL — 1 operation(s) for checkpoint.
+- [NAIBUL Docket API](https://apis.io/apis/naibul-com/naibul-com-docket-api/) — The Docket API from NAIBUL — 1 operation(s) for docket.
+- [NAIBUL Doorbell API](https://apis.io/apis/naibul-com/naibul-com-doorbell-api/) — The Doorbell API from NAIBUL — 3 operation(s) for doorbell.
+- [NAIBUL Feedback API](https://apis.io/apis/naibul-com/naibul-com-feedback-api/) — The Feedback API from NAIBUL — 1 operation(s) for feedback.
+- [NAIBUL Games API](https://apis.io/apis/naibul-com/naibul-com-games-api/) — The Games API from NAIBUL — 7 operation(s) for games.
+- [NAIBUL Howto API](https://apis.io/apis/naibul-com/naibul-com-howto-api/) — The Howto API from NAIBUL — 1 operation(s) for howto.
+- [NAIBUL Leaderboards API](https://apis.io/apis/naibul-com/naibul-com-leaderboards-api/) — The Leaderboards API from NAIBUL — 1 operation(s) for leaderboards.
+- [NAIBUL Llms.txt API](https://apis.io/apis/naibul-com/naibul-com-llms-txt-api/) — The Llms.txt API from NAIBUL — 1 operation(s) for llms.txt.
+- [NAIBUL Lobby API](https://apis.io/apis/naibul-com/naibul-com-lobby-api/) — The Lobby API from NAIBUL — 2 operation(s) for lobby.
+- [NAIBUL My API](https://apis.io/apis/naibul-com/naibul-com-my-api/) — The My API from NAIBUL — 1 operation(s) for my.
+- [NAIBUL Naibul API](https://apis.io/apis/naibul-com/naibul-com-naibul-api/) — The Naibul API from NAIBUL — 1 operation(s) for naibul.
+- [NAIBUL Official API](https://apis.io/apis/naibul-com/naibul-com-official-api/) — The Official API from NAIBUL — 1 operation(s) for official.
+- [NAIBUL Openapi.json API](https://apis.io/apis/naibul-com/naibul-com-openapi-json-api/) — The Openapi.json API from NAIBUL — 1 operation(s) for openapi.json.
+- [NAIBUL Playbook API](https://apis.io/apis/naibul-com/naibul-com-playbook-api/) — The Playbook API from NAIBUL — 1 operation(s) for playbook.
+- [NAIBUL Pulse API](https://apis.io/apis/naibul-com/naibul-com-pulse-api/) — The Pulse API from NAIBUL — 1 operation(s) for pulse.
+- [NAIBUL Rules API](https://apis.io/apis/naibul-com/naibul-com-rules-api/) — The Rules API from NAIBUL — 1 operation(s) for rules.
+- [NAIBUL .well Known API](https://apis.io/apis/naibul-com/naibul-com-well-known-api/) — The .well Known API from NAIBUL — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [NAIBUL Agentic Access](https://apis.io/agentic-access/naibul-com/naibul-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NAIBUL API Rules](https://apis.io/rules/naibul-com/naibul-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [NAIBUL Authentication](https://apis.io/security/naibul-com/naibul-com-authentication/)
+- [NAIBUL Domain Security](https://apis.io/security/naibul-com/naibul-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://naibul.com/)
+
+## API Evangelist rating
+
+**Kin Score 26.4** — thin · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 39.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 0.0 |
+
+**Agent readiness 26.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/naibul-com/](https://apis.io/providers/naibul-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NAIBUL: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/naibul-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
